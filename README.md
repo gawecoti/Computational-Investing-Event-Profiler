@@ -1,4 +1,4 @@
-eventprofiler
+Event Profiler
 =============
 
 Homework 2 - Computational Investing
